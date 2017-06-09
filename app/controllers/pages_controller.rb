@@ -5,7 +5,10 @@ class PagesController < ApplicationController
   def about
   end
   
-  def events
+  def pastevents
+  end
+  
+  def upcomingevents
   end
   
 end
