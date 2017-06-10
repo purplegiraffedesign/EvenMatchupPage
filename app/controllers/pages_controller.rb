@@ -5,6 +5,9 @@ class PagesController < ApplicationController
   def about
   end
   
+  def staff
+  end
+  
   def pastevents
   end
   
